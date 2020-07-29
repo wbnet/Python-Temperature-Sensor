@@ -1,8 +1,6 @@
-
 import time
 import board
 import adafruit_dht
-import time
 
 newTime = oldTime = time.time()
 newTemp = oldTemp = 0.0
